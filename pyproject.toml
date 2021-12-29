@@ -12,6 +12,7 @@ streamlit-webrtc = "^0.32.0"
 opencv-python-headless = "^4.5.5"
 pysen = {extras = ["lint"], version = "^0.10.1"}
 autoflake = "^1.4"
+mediapipe = "^0.8.9"
 
 [tool.poetry.dev-dependencies]
 
